@@ -1,0 +1,7 @@
+{
+  "name": "Meki Chat",
+  "description": "Real-time social chat and music producer collaboration platform with audio stems, interactive 4-track stem mixer, live studio drops, and creator discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
